@@ -1,0 +1,61 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+ h1 {
+    font-size: 24px;
+}
+
+
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.training{
+    width: 700 
+}
+
+.offthepitch{
+    width: 600px 
+}
+
+.realmadrid{
+    width: 700px
+}
